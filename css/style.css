@@ -6,3 +6,42 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: lightgrey;
+}
+
+.logo-container {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+
+.logo-writing {
+    font-size: 3em;
+}
+
+.button-container {
+    margin: 30px auto;
+    background-color: white;
+    width: 800px;
+    height: 50px;
+}
+
+
+button {
+    margin: 10px 5px;
+}
+
+.blue-button {
+    padding: 4px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.white-button {
+    padding: 4px;
+    background-color: white;
+    color: grey;
+    border-radius: 5px;
+}
