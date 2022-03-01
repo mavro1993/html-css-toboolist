@@ -65,9 +65,22 @@ button {
     line-height: 20px;
     text-align: center;
     border-radius: 50%;
+}
+
+.style {
     list-style: none;
 }
 
-.display {
-    display: inline-block;
+li {
+    padding: 2px 5px;
+}
+
+.check-redcircle {
+    color: red;
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
 }
