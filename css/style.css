@@ -11,6 +11,7 @@ body {
 }
 
 .logo-container {
+    line-height: 80px;
     background-color: white;
     height: 80px;
     width: 100%;
@@ -54,7 +55,7 @@ button {
 }
 
 .down-arrow {
-    padding: 15px;
+    padding: 5px;
 }
 
 .check-circle {
@@ -84,3 +85,39 @@ li {
     text-align: center;
     border-radius: 50%;
 }
+
+button {
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.editorial {
+    background-color: blue;
+    color: white;
+}
+
+.goals {
+    background-color: purple;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.pink {
+    background-color: pink;
+    color: white;
+}
+
+.greenlight {
+    background-color: greenyellow;
+    color: white;
+}
+
