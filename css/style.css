@@ -45,3 +45,29 @@ button {
     color: grey;
     border-radius: 5px;
 }
+
+.main-container {
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.down-arrow {
+    padding: 15px;
+}
+
+.check-circle {
+    color: green;
+    width: 20px;
+    height: 20px;
+    border: 1px solid green;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    list-style: none;
+}
+
+.display {
+    display: inline-block;
+}
